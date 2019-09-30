@@ -1,0 +1,35 @@
+#footer {
+    text-align: center;
+    background-color: rgb(202, 198, 255);
+  }
+
+  .sm {
+    padding: 10px;
+    font-size: 30px;
+    width: 40px;
+    text-align: right;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+  }
+    
+  .sm:hover {
+    opacity: 0.7;
+  }
+    
+  .sm-facebook {
+    color: white;
+  }
+    
+  .sm-twitter {
+    color: white;
+  }
+    
+  .sm-linkedin {
+    color: white;
+  }
+    
+  .sm-instagram {
+    color: white;
+  }
+  
